@@ -1,2 +1,1 @@
-# manshop
-This is my site about shop for man suits
+SITE IS NOT FULL MOBILE RESPONSIVE JUST FOR IPPAD PRO
